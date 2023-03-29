@@ -1,0 +1,38 @@
+.Work {
+  height: 50vh;
+  width: 100%;
+
+}
+.workcont {
+  display: flex;
+  height: 50vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+.whatIDo {
+  font-size: 3rem;
+}
+.works {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6rem;
+}
+.works > div {
+  background-color: #292929;
+  padding: 50px;
+}
+.worksh3 {
+  font-size: 2rem;
+  line-height: 1.4;
+  opacity: .7;
+}
+.design {
+    width: 270px;
+}
+.dev {
+    border: 1px solid #333333;
+    border-bottom: 4px solid #27ae60;
+}

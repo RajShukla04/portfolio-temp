@@ -1,0 +1,16 @@
+.aboutInfo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.aboutInfo img {
+  width: 100px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+.aboutInfo01 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
